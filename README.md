@@ -17,3 +17,10 @@ Pull requests and feature suggestions are welcome!
 
 ## 🛡 License
 This project is licensed under the MIT License.
+
+## ☕ Support the Project
+
+If you love this extension and want to support its development 💻✨  
+you can [buy me a coffee here](https://buymeacoffee.com/harshdeepkaur) ☕
+
+Thank you so much for helping keep this project alive 🙏
